@@ -23,11 +23,3 @@ A simple **Library Management System** built in **Java** using **Object-Oriented
 - **OOP Concepts**: Classes, Objects, Encapsulation, Collections (HashMap)
 
 ---
-
-## 🚀 Getting Started
-
-### 📦 Clone the Repo
-
-```bash
-git clone https://github.com/your-username/library-management-system-java.git
-cd library-management-system-java
